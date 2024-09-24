@@ -26,6 +26,10 @@ head(mtcars)
 summary(mtcars)
 ```
 
+```{r}
+hist(mtcars$mpg)
+```
+
 
 
 
